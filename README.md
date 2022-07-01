@@ -1,4 +1,4 @@
- 👋 Hello! Welcome to my Github profile.
+ 👋 Hey everyone! Welcome to my Github profile.
  <br>
  My name is Philippe and my nickname is "@prbretas"!
 
