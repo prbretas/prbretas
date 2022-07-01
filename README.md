@@ -1,5 +1,5 @@
- 👋 Hello! Welcome to my Github profile.
- My name is Philippe and my nickname is "@prbretas"!
+ ##👋 Hello! Welcome to my Github profile.
+ ###My name is Philippe and my nickname is "@prbretas"!
 
 - 🤩 I’m interested in Music, Games, Skateboarding, Surfing, Nature Trails and Mountain Hiking.
 - 💻 I have knowledge in HTML, CSS, JS, Bootstrap and Bulma.
