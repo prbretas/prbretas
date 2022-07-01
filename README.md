@@ -10,7 +10,27 @@
 - 📨 How to reach me: phrbretas@gmail.com
 
 
-<div  class="display:"flex";>
+
+### Contact:
+
+<div>
+<a href="https://instagram.com/prbretas" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>
+
+<a href="https://www.linkedin.com/in/phrbretas" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>  
+ 
+<a href = "mailto:phrbretas@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+</div>
+
+
+
+
+
 ### Technologies and Tools
 <div class="display:"flex";>
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -34,27 +54,7 @@
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 </div>    
                            
-</div>
-                 
-
-
-### Contact:
-
-<div>
-<a href="https://instagram.com/prbretas" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-
-<a href="https://www.linkedin.com/in/phrbretas" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>  
- 
-<a href = "mailto:phrbretas@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-</div>
-
-
+           
 
 <div>
 <a href="https://github.com/prbretas">
