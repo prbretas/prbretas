@@ -9,15 +9,7 @@
 - 📊 I'm looking to collaborate on website and app projects.
 - 📨 How to reach me: phrbretas@gmail.com
 
-
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-          
-
-
 ### Ferramentas e Tecnologias
-
 <div class="display:"flex";>
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -27,10 +19,6 @@
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-          
-          
-         
-          
 </div>
                       
                                                                                                                        
