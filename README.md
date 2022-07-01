@@ -9,7 +9,7 @@
 - 📊 I'm looking to collaborate on website and app projects.
 - 📨 How to reach me: phrbretas@gmail.com
 
-### Ferramentas e Tecnologias
+### Technologies and Tools
 <div class="display:"flex";>
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -22,7 +22,7 @@
 </div>
                       
                                                                                                                        
-### Estou aprendendo                                                                                                                       
+### I'm learning
 <div class="display:"flex";>                                                                                                        
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />         
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -33,7 +33,7 @@
 </div>                     
 
 
-### Contatos:
+### Contact:
 
 <div>
 <a href="https://instagram.com/prbretas" target="_blank">
