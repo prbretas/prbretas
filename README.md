@@ -5,9 +5,9 @@
  I have 1 year of programming experience.
 
 - 🤩 I’m interested in Music, Games, Skateboarding, Surfing, Nature Trails and Mountain Hiking.
-- 💻 I have knowledge in HTML, CSS, JS, Bootstrap and Bulma.
-- 🌱 I’m currently learning JS, Java, React Native, C#, .NET.
-- 💻 I'm currently finishing the web developer course and starting the FullStack course at SENAI/SC
+- 💻 I have knowledge in HTML, CSS, JS, React Native, Bootstrap and Bulma.
+- 🌱 I’m currently learning JS, Java, C#, .NET.
+- 💻 I'm currently finishing the web developer course and starting the FullStack course at SENAI/SC and the course StartTECH from TOTVS-SC.
 - 📊 I'm looking to collaborate on website and app projects.
 - 📨 How to reach me: phrbretas@gmail.com
 
