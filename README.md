@@ -2,7 +2,7 @@
  <br>
  My name is Philippe and my nickname is "@prbretas"!
  <br>
- I have 1 year of programming experience.
+ I have 2 years of programming experience.
 
 - 🤩 I’m interested in Music, Games, Skateboarding, Surfing, Nature Trails and Mountain Hiking.
 - 💻 I have knowledge in HTML, CSS, JS, React Native, Bootstrap and Bulma.
