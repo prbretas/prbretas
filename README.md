@@ -10,6 +10,7 @@
 - 💻 I finished the WEB developer course and I'm studying the FullStack course at SENAI/SC and the StartTECH course at TOTVS-SC.
 - 📊 I'm looking to collaborate on website and app projects and I want to become a Full Stack Developer.
 - 📨 How to reach me: phrbretas@gmail.com
+- 🧑‍💻 You can access my html resume here: https://www.prbretas.github.io/CV-HTML
 
 
 
@@ -28,7 +29,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
  
- <a href="https://prbretas.github.io/CV-HTML/" target="_blank">https://prbretas.github.io/CV-HTML/</a>
+
 </div>
 
 
