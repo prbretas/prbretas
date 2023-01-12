@@ -1,13 +1,6 @@
 
 <img style="width: 800px; height: 200px" src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact"/>
-
-
-
-
-
-
 👋 Hey everyone! Welcome to my Github profile.
  <br>
  My name is Philippe and my nickname is "@prbretas"!
