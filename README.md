@@ -1,4 +1,4 @@
-<img style="width: 1024px; height: 400px" src="https://i.giphy.com/media/smzfl3E7a4iHK/giphy.webp"/>
+<img style="width: 800px; height: 600px" src="https://i.giphy.com/media/smzfl3E7a4iHK/giphy.webp"/>
 
 👋 Hey everyone! Welcome to my Github profile.
  <br>
