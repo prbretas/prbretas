@@ -1,6 +1,6 @@
-<div style="height: 400px">
-<img style="width: 800px; height: 600px" src="https://i.giphy.com/media/smzfl3E7a4iHK/giphy.webp"/>
-</div>
+
+<img style="width: 800px; height: 100px" src="https://i.giphy.com/media/smzfl3E7a4iHK/giphy.webp"/>
+
 
 
 
