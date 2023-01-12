@@ -2,9 +2,6 @@
 <img style="width: 1000px; height: 200px" src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 👋 Hey everyone! Welcome to my Github profile.
  <br>
  My name is Philippe and my nickname is "@prbretas"!
@@ -74,5 +71,8 @@
 <a href="https://github.com/prbretas">
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=prbretas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
