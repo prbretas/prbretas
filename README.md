@@ -1,4 +1,8 @@
+<div style="height: 400px">
 <img style="width: 800px; height: 600px" src="https://i.giphy.com/media/smzfl3E7a4iHK/giphy.webp"/>
+</div>
+
+
 
 👋 Hey everyone! Welcome to my Github profile.
  <br>
