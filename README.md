@@ -60,11 +60,7 @@
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 </div>    
                            
-           [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-           
-           [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prbretas)](https://github.com/anuraghazra/github-readme-stats)
-           
-           
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)   
 
 <div>
 <a href="https://github.com/prbretas">
