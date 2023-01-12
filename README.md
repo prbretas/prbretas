@@ -1,5 +1,5 @@
 
-<img style="width: 800px; height: 200px" src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp"/>
+<img style="width: 1000px; height: 200px" src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp"/>
 
 👋 Hey everyone! Welcome to my Github profile.
  <br>
