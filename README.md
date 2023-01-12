@@ -1,7 +1,8 @@
 
 <img style="width: 800px; height: 200px" src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact)](https://github.com/prbretas/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact"/>
+
 
 
 
