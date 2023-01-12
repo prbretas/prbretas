@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/2pjo.mp4"/>
+<img style="width: 30px" src="https://i.giphy.com/media/smzfl3E7a4iHK/giphy.webp"/>
 
 👋 Hey everyone! Welcome to my Github profile.
  <br>
