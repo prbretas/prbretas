@@ -1,13 +1,6 @@
 
-<img style="width: auto;
-           height: 200px;
-            /*height:200px;*/
-            position: top center;" src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp"/>
-            <img style="width: auto;
-           height: 200px;
-            /*height:200px;*/
-            position: top center;" src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp"/>
-            <img style="width: 400px;
+
+            <img style="width: 1000px;
            height: 200px;
             /*height:200px;*/
             position: top center;" src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp"/>
