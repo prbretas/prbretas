@@ -2,6 +2,27 @@
 <img style="width: 1000px; height:200px; position: top center;" src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp"/>
 
 
+    <div style="    margin: 10px;
+            width: 90vw;
+            height: 10vh;
+            display: flex;
+            align-items: center;">
+            
+        <img style="width: auto;
+           height: 200px;
+            /*height:200px;*/
+            position: top center;" src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp" />
+        <img style="width: auto;
+           height: 200px;
+            /*height:200px;*/
+            position: top center;"  src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp" />
+        <img style="width: auto;
+           height: 200px;
+            /*height:200px;*/
+            position: top center;"  src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp" />
+    </div>
+
+
 👋 Hey everyone! Welcome to my Github profile.
  <br>
  My name is Philippe and my nickname is "@prbretas"!
