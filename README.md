@@ -66,15 +66,20 @@
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 </div>    
                            
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=prbretas&show_icons=true)   
+
 
 
 <div>
 <a href="https://github.com/prbretas">
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=prbretas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
- 
+ </div>
+  
+  
+ <!--
+OUTROS MODELOS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=prbretas&show_icons=true)   
+-->
+
 
