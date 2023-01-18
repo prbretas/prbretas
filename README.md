@@ -11,10 +11,10 @@
  I have 2 years of programming experience.
 
 - 🤩 I’m interested in Music, Games, Skateboarding, Surfing, Nature Trails and Mountain Hiking.
-- 💻 I have knowledge in HTML, CSS, JS, React Native, Bootstrap and Bulma.
-- 🌱 I’m currently learning Java, C#, .NET, SQL
+- 💻 I have knowledge in HTML5, CSS3, JavaScript, React Native, Bootstrap and Bulma.
+- 🌱 I’m currently learning Java, C#, .NET, SQL, MSSQL
 - 💻 I finished the WEB developer course and I'm studying the FullStack course at SENAI/SC and the StartTECH course at TOTVS-SC.
-- 📊 I'm looking to collaborate on website and app projects and I want to become a Full Stack Developer.
+- 📊 I'm looking to collaborate on websites and app projects.I want to become a Full Stack Developer.
 - 📨 How to reach me: phrbretas@gmail.com
 - 🧑‍💻 You can access my HTML resume here: https://prbretas.github.io/CV-HTML
 
