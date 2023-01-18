@@ -12,7 +12,7 @@
 
 - 🤩 I’m interested in Music, Games, Skateboarding, Surfing, Nature Trails and Mountain Hiking.
 - 💻 I have knowledge in HTML, CSS, JS, React Native, Bootstrap and Bulma.
-- 🌱 I’m currently learning JS, Java, C#, .NET.
+- 🌱 I’m currently learning Java, C#, .NET, SQL
 - 💻 I finished the WEB developer course and I'm studying the FullStack course at SENAI/SC and the StartTECH course at TOTVS-SC.
 - 📊 I'm looking to collaborate on website and app projects and I want to become a Full Stack Developer.
 - 📨 How to reach me: phrbretas@gmail.com
