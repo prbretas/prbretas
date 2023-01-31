@@ -23,19 +23,20 @@
 ### Contact:
 
 <div>
-<a href="https://instagram.com/prbretas" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  
+  <a href = "mailto:phrbretas@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-
+  
 <a href="https://www.linkedin.com/in/phrbretas" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>  
  
-<a href = "mailto:phrbretas@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href="https://instagram.com/prbretas" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </a>
 
-<a href = "https://bitbucket.org/prbretas/">
+<a href = "https://bitbucket.org/prbretas/" target="_blank">
 <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank">
 </a>
 
