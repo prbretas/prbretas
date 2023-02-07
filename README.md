@@ -80,8 +80,7 @@
  </div>
   
   
-  
-  <iframe src="https://skyline.github.com/prbretas/2022" height="200" width="300" title="Iframe Example"></iframe>
+  <img src="https://skyline.github.com/prbretas/2022">
   
   
  <!--
