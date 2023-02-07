@@ -90,8 +90,7 @@
   <img src="skyline github.png">
   
 
-![Snake animation](https://github.com/prbretas/prbretas/blob/output/github-contribution-grid-snake.svg)
-
+<img src="https://github.com/prbretas/prbretas/blob/output/github-contribution-grid-snake.svg" />
 
  <!--
 OUTROS MODELOS
