@@ -1,7 +1,7 @@
   
   <img style="width: 1000px;
            height: 200px;
-            position: top center;" src="https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp"/>
+            position: top center;" src="[https://i.giphy.com/media/WoD6JZnwap6s8/giphy.webp](https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif)"/>
 
 
 👋 Hey everyone! Welcome to my Github profile.
