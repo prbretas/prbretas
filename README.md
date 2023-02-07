@@ -83,7 +83,10 @@
   <br>
   <img src="skyline github.png">
   
-  
+
+![Snake animation](https://github.com/prbretas/prbretas/blob/output/github-contribution-grid-snake.svg)
+
+
  <!--
 OUTROS MODELOS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
