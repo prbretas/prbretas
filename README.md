@@ -13,7 +13,7 @@
 - 💻 I have knowledge in HTML5, CSS3, JavaScript, React Native, Frameworks, Bootstrap and Bulma, JAVA, SCRUM.
 - 🖥️ I use softwares like a VSCode, IntelliJ IDE, EclipseIDE, DBeaver, MSSQL, Docker, Postman.
 - 🌱 I’m currently learning Java, C#, .NET, SQL, MSSQL and others DBMS.
-- 💻 I'm studying the FullStack's DEVinHouse course at SENAI/SC and the Back-end's START&lt;tech&gt; course at TOTVS-SC.
+- 💻 I'm studying the FullStack's DEVinHouse course at SENAI/SC and the Back-end's START&lt;tech&gt; course at TOTVS-SC through Ada Tech.
 - 📊 I'm looking to collaborate on websites, webprojects, mobile and app projects. I want to become a Full Stack Developer.
 - 📨 How to reach me: phrbretas@gmail.com
 - 🧑‍💻 You can access my HTML resume here: https://prbretas.github.io/CV-HTML 👈👈👈
