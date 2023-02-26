@@ -5,8 +5,6 @@
 
 👋 Hey everyone! Welcome to my Github profile.
  <br>
- My name is Philippe and my nickname is "@prbretas"!
- <br>
  I'm Developer and Administrative Manager, I have 2 years of programming experience.
 
 - 🤩 I’m interested in Music, Guitar, Games, Skateboarding, Surfing, Nature Trails and Mountain Hiking.
