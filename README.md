@@ -14,7 +14,6 @@
 - 💻 I'm studying the FullStack DEVinHouse course at SENAI/SC and the Back-end START&lt;tech&gt; at TOTVS-SC through Ada Tech.
 - 📊 I'm looking to collaborate on websites, webprojects, mobile and app projects. I want to become a Full Stack Developer.
 - 📨 How to reach me: phrbretas@gmail.com
-- 🧑‍💻 You can access my HTML resume here: https://prbretas.github.io/CV-HTML 👈👈👈
 
 ### Contact:
 <div>
