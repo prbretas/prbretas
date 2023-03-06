@@ -3,9 +3,6 @@
            height: 200px;
             position: top center;" src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif"/>
             
-            <br>
-            ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Software+Developer+%7C+Brazil;)
-
 👋 Hey everyone! Welcome to my Github profile.
  <br>
  I'm Developer and Administrative Manager, I have 2 years of programming experience.
