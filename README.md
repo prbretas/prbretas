@@ -69,8 +69,4 @@
   <br>
   <br>
   <img src="skyline github.png">
-  
-  
-  
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=prbretas&theme=omni)](https://git.io/streak-stats)
+ 
