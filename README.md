@@ -8,9 +8,9 @@
  I'm Developer and Administrative Manager, I have 2 years of programming experience.
 
 - 🤩 I’m interested in Music, Guitar, Games, Skateboarding, Surfing, Nature Trails and Mountain Hiking.
-- 💻 I have knowledge in HTML5, CSS3, JavaScript, React Native, Frameworks, Bootstrap and Bulma, JAVA, SCRUM.
-- 🖥️ I use softwares like a VSCode, IntelliJ IDE, EclipseIDE, DBeaver, MSSQL, Docker, Postman.
-- 🌱 I’m currently learning Java, C#, .NET, SQL, MSSQL and others DBMS.
+- 💻 I have knowledge in HTML5, CSS3, JavaScript, React Native, JAVA, Frameworks, SQL, SCRUM, KANBAN.
+- 🖥️ I use softwares like a VSCode, IntelliJ IDE, EclipseIDE, DBeaver, MSSQL, MySQL, Docker, Postman.
+- 🌱 I’m currently learning Java, Spring, SQL, and others DBMS.
 - 💻 I'm studying the FullStack DEVinHouse course at SENAI/SC and the Back-end START&lt;tech&gt; at TOTVS-SC through Ada Tech.
 - 📊 I'm looking to collaborate on websites, webprojects, mobile and app projects. I want to become a Full Stack Developer.
 - 📨 How to reach me: phrbretas@gmail.com
