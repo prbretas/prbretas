@@ -12,7 +12,7 @@
 - 🖥️ I use softwares like a VSCode, IntelliJ IDE, EclipseIDE, DBeaver, MSSQL, MySQL, Docker, Postman.
 - 🌱 I’m currently learning Java, Spring, SQL, and others DBMS.
 - 💻 I graduated from the START tech course and I'm studying the DEVinHouse course at SENAI/SC.
-- 📊 I'm looking to collaborate on websites, webprojects, mobile and app projects. I want to become a Full Stack Developer.
+- 📊 I'm looking to collaborate on websites, webprojects, mobile and app projects.
 - 📨 How to reach me: phrbretas@gmail.com
 
 ### Contact:
