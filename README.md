@@ -11,7 +11,7 @@
 - 💻 I have knowledge in HTML5, CSS3, JavaScript, React Native, JAVA, Frameworks, SQL, SCRUM, KANBAN.
 - 🖥️ I use softwares like a VSCode, IntelliJ IDE, EclipseIDE, DBeaver, MSSQL, MySQL, Docker, Postman.
 - 🌱 I’m currently learning Java, Spring, SQL, and others DBMS.
-- 💻 I graduated from the START tech course and I'm studying the DEVinHouse course at SENAI/SC.
+- 💻 I graduated from the START tech course and the DEVinHouse course at SENAI/SC.
 - 📊 I'm looking to collaborate on websites, webprojects, mobile and app projects.
 - 📨 How to reach me: phrbretas@gmail.com
 
