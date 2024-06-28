@@ -8,8 +8,7 @@
  I'm Developer and Administrative Manager, I have 2 years of programming experience.
 
 - 🤩 I’m interested in Music, Guitar, Games, Skateboarding, Surfing, Nature Trails and Mountain Hiking.
-- 💻 I have knowledge in HTML5, CSS3, JavaScript, React Native, JAVA, Frameworks, SQL, SCRUM, KANBAN.
-- 🖥️ I use softwares like a VSCode, IntelliJ IDE, EclipseIDE, DBeaver, MSSQL, MySQL, Docker, Postman.
+- 💻 I have knowledge in HTML5, CSS3, JavaScript, React Native, JAVA, AdvPL, Frameworks, SQL, SCRUM, KANBAN.
 - 🌱 I’m currently learning AdvPL, Java, SQL and others things.
 - 💻 I graduated from the START tech course and the DEVinHouse course at SENAI/SC.
 - 📊 I'm looking to collaborate on websites, webprojects, mobile and app projects.
