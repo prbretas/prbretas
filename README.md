@@ -54,7 +54,7 @@
                                                                                                                                   
 ### I'm learning
 <div class="display:"flex";>        
-  <img width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-512/free-sql-4-190807.png?f=webp&w=256" /> 
+  <img width="40" height="40" src="https://imgs.search.brave.com/jLDcyrgPi8BKiglbEXSvfwncjJYaWQC1_Az_8szZLA8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zcWwtZGF0/YWJhc2UtZ2VuZXJp/Yy1pY29uLTc2MHgx/MDI0LXo2Z2J6Y3My/LnBuZw" /> 
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png" /> 
 
 
