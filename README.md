@@ -5,11 +5,10 @@
             
 👋 Hey everyone! Welcome to my Github profile.
  <br>
-- 💻 I'm Developer since 2021, and i've 2 years programming experience.
-- 🤩 I’m interested in WEB projects, Apps and other works.
-- 💻 AdvPL | JavaScript | JAVA | React Native | Springboot | SQL | 
+- 💻 I'm Developer since 2021.
+- 🖥️ AdvPL | JavaScript | JAVA | React Native | Springboot | SQL | 
 - 🌱 I’m currently learning AdvPL, Java, SQL and others things.
-- 💻 I graduated from the START Tech course by TOTVS and the DEVinHouse course at SENAI/SC.
+- 📚 I graduated from the START Tech course by TOTVS and the DEVinHouse course at SENAI/SC.
 - 📊 I'm looking to collaborate on software development, websites, webprojects, mobile and app projects.
 - 📨 How to reach me: phrbretas@gmail.com
 
