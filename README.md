@@ -6,7 +6,7 @@
 👋 Hey everyone! Welcome to my Github profile.
  <br>
 - 💻 I'm Developer since 2021 and I work developing a Logistics ERP by TOTVS S.A.
-- 🖥️ AdvPL | JavaScript | JAVA | React Native | Springboot | SQL | 
+- 🖥️ AdvPL | Java | JavaScript | React Native | SQL | Springboot | Maven
 - 🌱 I’m currently learning AdvPL, Java, SQL and others things.
 - 📚 I graduated from the START Tech course by TOTVS and the DEVinHouse course at SENAI/SC.
 - 📊 I'm looking to collaborate on software development, websites, webprojects, mobile and app projects.
