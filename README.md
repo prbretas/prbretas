@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning AdvPL, Java, SQL and others things.
 - 📚 I graduated from the START Tech course by TOTVS and the DEVinHouse course at SENAI/SC.
 - 📊 I'm looking to collaborate on software development, websites, webprojects, mobile and app projects.
-- 📨 How to reach me: phrbretas@gmail.com
+- 📨 How to reach me: phrbretas@gmail.com,   <a href = "https://www.linkedin.com/in/phrbretas/">LinkedIn</a>
 
 ### Contact:
 <div>
