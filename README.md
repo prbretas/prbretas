@@ -5,10 +5,9 @@
             
 👋 Hey everyone! Welcome to my Github profile.
  <br>
- I'm Developer and Administrative Manager, I have 2 years of programming experience.
-
-- 🤩 I’m interested in Music, Guitar, Games, Skateboarding, Surfing, Nature Trails and Mountain Hiking.
-- 💻 I have knowledge in HTML5, CSS3, JavaScript, React Native, JAVA, AdvPL, Frameworks, SQL, SCRUM, KANBAN.
+- 💻 I'm Developer since 2021, and i've 2 years programming experience.
+- 🤩 I’m interested in WEB projects, Apps and other works.
+- 💻 AdvPL | JavaScript | JAVA | React Native | Springboot | SQL | 
 - 🌱 I’m currently learning AdvPL, Java, SQL and others things.
 - 💻 I graduated from the START Tech course by TOTVS and the DEVinHouse course at SENAI/SC.
 - 📊 I'm looking to collaborate on software development, websites, webprojects, mobile and app projects.
