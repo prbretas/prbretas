@@ -5,7 +5,7 @@
             
 👋 Hey everyone! Welcome to my Github profile.
  <br>
-- 💻 I'm Developer since 2021.
+- 💻 I'm Developer since 2021 and I work with Logistics ERP
 - 🖥️ AdvPL | JavaScript | JAVA | React Native | Springboot | SQL | 
 - 🌱 I’m currently learning AdvPL, Java, SQL and others things.
 - 📚 I graduated from the START Tech course by TOTVS and the DEVinHouse course at SENAI/SC.
@@ -56,6 +56,11 @@
 <div class="display:"flex";>        
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png" /> 
   <img width="40" height="40" src="https://imgs.search.brave.com/jLDcyrgPi8BKiglbEXSvfwncjJYaWQC1_Az_8szZLA8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9zcWwtZGF0/YWJhc2UtZ2VuZXJp/Yy1pY29uLTc2MHgx/MDI0LXo2Z2J6Y3My/LnBuZw" /> 
+
+
+  <img width="40" height="40" src="https://github.com/user-attachments/assets/1494d74a-c642-4b50-8fa5-6fbfdc1576f6" /> 
+  
+
 
 
 </div>    
