@@ -46,15 +46,16 @@
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-</div>
-                                                                                                                                  
-### I'm learning
-<div class="display:"flex";>                                                                                                        
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" />             
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> 
+</div>
+                                                                                                                                  
+### I'm learning
+<div class="display:"flex";>        
+  <img width="40" height="40" src="https://cdn.iconscout.com/icon/free/png-512/free-sql-4-190807.png?f=webp&w=256" /> 
+
 </div>    
           <br>                  
 <div>
