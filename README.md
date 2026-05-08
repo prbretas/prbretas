@@ -69,3 +69,6 @@
   <img src="prbretas-skyline-2022.png">
   <img src="prbretas-skyline-2023.jpg">
  
+
+
+![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
