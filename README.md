@@ -42,8 +42,16 @@ Sou Desenvolvedor de Software com foco em soluções robustas para o ecossistema
 
 ### 🛠 Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,py,mysql,sqlserver,docker,git,bash,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,py,mysql,sqlserver,docker,git,bash,vscode" /> 
 </div>
+
+<div class="display:"flex";>
+  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png" />
+  <img width="40" height="40" src="https://github.com/user-attachments/assets/1494d74a-c642-4b50-8fa5-6fbfdc1576f6" />
+</div>
+
+<br>
+
 
 ---
 
@@ -62,6 +70,31 @@ Sou Desenvolvedor de Software com foco em soluções robustas para o ecossistema
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=prbretas&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+
+<a href="https://github.com/prbretas">
+
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact&langs_count=7&theme=dracula"/>
+
+<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=prbretas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+</div>
+<img src="prbretas-skyline-2022.png">
+<img src="prbretas-skyline-2023.jpg">
 
 
 
