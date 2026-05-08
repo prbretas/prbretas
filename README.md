@@ -3,7 +3,6 @@
 
 <img style="width: 1000px;height: 200px;position: top center;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif"/>
 <div align="center">
-  <img width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" alt="Banner" />
 
   <h1>👋 Hey everyone! Welcome to my Github profile.</h1>
   <p>🚀 <strong>Desenvolvedor de Software | Especialista TOTVS Protheus (GFE) | Estudante de IA</strong></p>
