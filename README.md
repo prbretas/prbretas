@@ -1,7 +1,16 @@
   
-  <img style="width: 1000px;
+  <!-- <img style="width: 1000px;
            height: 200px;
             position: top center;" src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif"/>
+
+           -->
+
+
+
+<img style="width: 1000px;
+           height: 200px;
+            position: top center;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif"/>
+
             
 👋 Hey everyone! Welcome to my Github profile.
  <br>
@@ -69,8 +78,3 @@
   <img src="prbretas-skyline-2022.png">
   <img src="prbretas-skyline-2023.jpg">
  
-
-<section style="width: 100%; display: flex;">
-  <img align="left" src="https://komarev.com/ghpvc/?username=prbretas&color=FF7A8A&style=for-the-badge" alt="Profile Views" style="max-width: 49%;"/>
-  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=*******&cover_image=true&theme=novatorem&show_offline=false&background_color=6f87be&interchange=false&bar_color=ff7a8a&bar_color_cover=false" alt="Spotify Profile" style="max-width: 49%;"/>
-<section>
