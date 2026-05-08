@@ -1,80 +1,73 @@
-  
-  <!-- <img style="width: 1000px;
-           height: 200px;
-            position: top center;" src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif"/>
+<div align="center">
+  <img width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif" alt="Coding Banner" />
 
-           -->
+  <h1>👋 Olá, eu sou o PH (Philippe Bretas)</h1>
+  <p>🚀 <strong>Desenvolvedor de Software | Especialista TOTVS Protheus | IA para DEVs</strong></p>
 
-
-
-<img style="width: 1000px;
-           height: 200px;
-            position: top center;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif"/>
-
-            
-👋 Hey everyone! Welcome to my Github profile.
- <br>
-- 💻 I'm Developer since 2021 and I work developing a Logistics ERP by TOTVS S.A.
-- 🖥️ AdvPL | Java | JavaScript | React Native | SQL | Springboot | Maven
-- 🌱 I’m currently learning AdvPL, Java, SQL and others things.
-- 📚 I graduated from the START Tech course by TOTVS and the DEVinHouse course at SENAI/SC.
-- 📊 I'm looking to collaborate on software development, websites, webprojects, mobile and app projects.
-- 📨 How to reach me: <a target="_blank" href = "https://prbretas.github.io/phrbretas_resume/">My site</a>, <a target="_blank" href = "https://www.linkedin.com/in/phrbretas/">LinkedIn</a>
-
-### Contact:
-<div>
-  <a href = "mailto:phrbretas@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-  
-<a href="https://www.linkedin.com/in/phrbretas" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>  
- 
-<a href="https://instagram.com/prbretas" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href = "https://bitbucket.org/prbretas/" target="_blank">
-<img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white">
-</a>
+  <div>
+    <a href="https://www.linkedin.com/in/phrbretas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:phrbretas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://instagram.com/prbretas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  </div>
 </div>
 
-### Technologies and Tools
-<div class="display:"flex";>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />      
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />                                                 
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <br>
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /> 
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> 
+---
+
+### 👨‍💻 Perfil Profissional
+Desenvolvedor com foco em soluções para logística e ERP. Minha trajetória é baseada em formação técnica de elite e experiência prática no dia a dia do desenvolvimento.
+
+- 🛠️ **Especialista GFE:** Certificado com o **Badge TOTVS Frete Embarcador**. Domínio em Gestão de Frete, cálculos e integrações.
+- 💻 **Stack Principal:** **ADVPL** e ecossistema Protheus, com sólida base em Java e JavaScript (Expert).
+- 🧠 **IA em Desenvolvimento:** Atualmente focado na criação do **LogPulseAI** (análise de logs com LLaMA 3) e automação de fluxos com GitHub Copilot.
+- 🎓 **Formação Técnica:** Graduado pelos programas **DEVinHouse (SENAI/SC)**, **IOS** e **START Tech (TOTVS)**.
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+<table align="center">
+  <tr>
+    <td align="center" width="120"><strong>Linguagens</strong></td>
+    <td align="center" width="120"><strong>Frontend</strong></td>
+    <td align="center" width="120"><strong>ERP & DB</strong></td>
+    <td align="center" width="120"><strong>IA & Automação</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,js,py" /><br>ADVPL, Java, Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react" /><br>HTML/CSS (Expert)
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,sqlserver,docker" /><br>Protheus, SQL, MSSQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github,bash,vscode" /><br>Copilot, CLI, Git
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Status e Contribuições
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prbretas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact&langs_count=7&theme=dracula" />
 </div>
-                                                                                                                                  
-### I'm learning
-<div class="display:"flex";>        
-  <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png" /> 
-  <img width="40" height="40" src="https://github.com/user-attachments/assets/1494d74a-c642-4b50-8fa5-6fbfdc1576f6" /> 
-</div>    
-          <br>                  
-<div>
-<a href="https://github.com/prbretas">
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=prbretas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- </div>
-  
-  <br>
-  <br>
-  <img src="prbretas-skyline-2022.png">
-  <img src="prbretas-skyline-2023.jpg">
- 
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prbretas&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+### 🎯 Projetos e Iniciativas
+- **LogPulseAI:** Reduzindo o tempo de investigação de incidentes (MTTR) através de IA local.
+- **Mente MX:** Empreendedorismo no setor de vestuário para Motocross.
+- **SCTEC:** Desenvolvimento do Portal de Gestão de Empreendimentos.
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=prbretas&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+</div>
