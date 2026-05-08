@@ -70,5 +70,7 @@
   <img src="prbretas-skyline-2023.jpg">
  
 
-
-![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
+<section style="width: 100%; display: flex;">
+  <img align="left" src="https://komarev.com/ghpvc/?username=prbretas&color=FF7A8A&style=for-the-badge" alt="Profile Views" style="max-width: 49%;"/>
+  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=*******&cover_image=true&theme=novatorem&show_offline=false&background_color=6f87be&interchange=false&bar_color=ff7a8a&bar_color_cover=false" alt="Spotify Profile" style="max-width: 49%;"/>
+<section>
