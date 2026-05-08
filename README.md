@@ -1,27 +1,7 @@
-<!-- <img style="width: 1000px;
-
-height: 200px;
-
-position: top center;" src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif"/>
-
-
-
+<!-- <img style="width: 1000px;height: 200px;position: top center;" src="https://i.gifer.com/origin/37/376a66dacbd417010b5eda0d46ada276.gif"/>
 -->
 
-
-
-
-
-
-
-<img style="width: 1000px;
-
-height: 200px;
-
-position: top center;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif"/>
-
-
-
+<img style="width: 1000px;height: 200px;position: top center;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFvbnYzYzB3ZDRlbHljbDdoZnk2NHBkbGhybW1xZHFmOGgyN3NyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3gZCY92Cwyxq/giphy.gif"/>
 
 👋 Hey everyone! Welcome to my Github profile.
 
