@@ -71,29 +71,13 @@ Sou Desenvolvedor de Software com foco em soluções robustas para o ecossistema
   <img src="https://komarev.com/ghpvc/?username=prbretas&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div>
-
-<a href="https://github.com/prbretas">
-
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact&langs_count=7&theme=dracula"/>
-
-<img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=prbretas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+  <a href="https://github.com/prbretas">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prbretas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=prbretas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-<img src="prbretas-skyline-2022.png">
+
+  <img src="prbretas-skyline-2022.png">
 <img src="prbretas-skyline-2023.jpg">
 
 
