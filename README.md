@@ -5,7 +5,7 @@
 <div align="center">
 
   <h1>👋 Hey everyone! Welcome to my Github profile.</h1>
-  <p>🚀 <strong>Desenvolvedor de Software | Especialista TOTVS Protheus (GFE) | Estudante de IA</strong></p>
+  <p>🚀 <strong>Desenvolvedor de Software | Técnico Analista TOTVS Protheus (GFE) | Estudante de IA</strong></p>
 
   <div>
     <a href="https://www.linkedin.com/in/phrbretas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
