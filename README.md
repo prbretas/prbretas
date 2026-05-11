@@ -20,7 +20,7 @@
 Sou Desenvolvedor de Software com foco em soluções robustas para o ecossistema ERP e Logística. Minha atuação une a experiência em sistemas legados de alta complexidade com a implementação de fluxos modernos de Inteligência Artificial.
 
 ### 💼 Atuação Profissional & Especialidades
-- **Analista TOTVS Protheus:** Domínio avançado no ecossistema Protheus, com foco total no módulo **GFE (Gestão de Frete Embarcador)**.
+- **Analista TOTVS Protheus:** Desenvolvo o ecossistema Protheus, com foco total no módulo **GFE (Gestão de Frete Embarcador)**.
 - **Logística e Tributação:** Certificado com o **TOTVS Badge Frete Embarcador**. Acompanho ativamente os impactos da Reforma Tributária brasileira nos processos de frete.
 - **Linguagem Core:** **ADVPL** e **Progress 4GL**.
 - **Desenvolvedor Full Stack:** Experiência em **JavaScript, HTML e CSS**, além de sólida base em **Java**.
