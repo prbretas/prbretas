@@ -28,6 +28,7 @@ Sou Desenvolvedor de Software com foco em soluções robustas para o ecossistema
 
 ### 🚀 Projetos & Estudos Atuais
 - **LogPulseAI:** Ferramenta inovadora para análise de logs e stacktraces via IA (**FastAPI e LLaMA 3**) — Projeto final de especialização.
+- **VenceScan:** Sistema criado para pequenos comércios do ramo alimentício, para validar produtos e evitar desperdícios e prejuízos.
 - **Engenharia Assistida por IA:** Implementação de fluxos com **GitHub Copilot e GitHub CLI** para automação de backlog, branches e Pull Requests.
 - **SCTEC:** Especialização em IA para DEVs, com desenvolvimento do projeto **Portal de Gestão de Empreendimentos** para concorrer a uma vaga para o curso.
 - **Projetos Externos:** Soluções técnicas para marcas como **Mente MX** (Mentoria para pilotos off-road).
