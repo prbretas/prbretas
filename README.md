@@ -32,12 +32,12 @@ Sou Desenvolvedor de Software com foco em soluções robustas para o ecossistema
 - **Engenharia Assistida por IA:** Implementação de fluxos com **GitHub Copilot e GitHub CLI** para automação de backlog, branches e Pull Requests.
 - **SCTEC:** Especialização em IA para DEVs, com desenvolvimento do projeto **Portal de Gestão de Empreendimentos** para concorrer a uma vaga para o curso.
 - **Projetos Externos:** Soluções técnicas para marcas como **Mente MX** (Mentoria para pilotos off-road).
-- **Global Mindset:** Estudo intensivo de **Inglês** para o mercado internacional.
 
 ### 📚 Formação Técnica
+- **IOS** - Gestão Administrativa e Desenvolvimento WEB.
 - **DEVinHouse** - Fullstack (SENAI/SC)
 - **START Tech** - Backend Java (TOTVS/Ada)
-- **IOS** - Gestão Administrativa e Desenvolvimento WEB.
+
 
 ---
 
